@@ -1,6 +1,8 @@
 # Sviluppare applicazioni con Docker
 ### Corso intermedio sullo sviluppo di app con Docker
 
+[![Join the chat at https://gitter.im/LOG-ED/docker-for-devs](https://badges.gitter.im/LOG-ED/docker-for-devs.svg)](https://gitter.im/LOG-ED/docker-for-devs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Questo è il repository ufficiale del corso. E' possibile consultare la scheda e i materiali del corso a questo indirizzo: 
 **https://log-ed.github.io/docker-for-devs**
 
