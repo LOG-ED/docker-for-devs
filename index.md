@@ -34,7 +34,7 @@ Ogni sessione, della durata di 2 ore, prevede questi momenti formativi:
 
 ### Requisiti:
  
-E' utile una conoscenza base di programmazione ed aver svolto il corso base https://log-ed.github.io/real-docker/  
+E' utile una conoscenza base di programmazione ed aver svolto il corso base [Real Docker](https://log-ed.github.io/real-docker/).   
 Porta il tuo pc, il corso è molto pratico!
 
 ## Docente
